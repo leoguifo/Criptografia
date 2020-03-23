@@ -24,7 +24,7 @@
     <div class="columns is-vcentered">
         <div class="column">
             <div class="box">
-                <form action="" enctype="multipart/form-data">
+                <form method="POST" action="encrypt" enctype="multipart/form-data">
                     <div class="field">
                         <label class="label">Arquivo</label>
                         <div class="control">
@@ -41,11 +41,11 @@
         </div>
         <div class="column">
             <div class="box">
-                <form action="" enctype="multipart/form-data">
+                <form method="POST" action="decrypt" enctype="multipart/form-data">
                     <div class="field">
                         <label class="label">Arquivo</label>
                         <div class="control">
-                            <input type="file" name="arquivo" id="" class="input" accept=".txt">
+                            <input type="file" name="arquivo" id="" class="input" accept=".crypt">
                         </div>
                     </div>
                     <div class="field">
