@@ -1,0 +1,22 @@
+{
+  "name": "criptografia",
+  "version": "1.0.0",
+  "description": "Projeto para criptografia de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoguifo/Criptografia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoguifo/Criptografia/issues"
+  },
+  "homepage": "https://github.com/leoguifo/Criptografia#readme",
+  "dependencies": {
+    "formidable": "^1.2.2"
+  }
+}
