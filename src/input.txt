@@ -1,12 +1,1 @@
------------------------------36803394126869176642614884769
-Content-Disposition: form-data; name="arquivo"; filename="input.txt"
-Content-Type: text/plain
-
 LUCIEN
------------------------------36803394126869176642614884769--
------------------------------17031186730298023113938632608
-Content-Disposition: form-data; name="arquivo"; filename="input.txt"
-Content-Type: text/plain
-
-LUCIEN
------------------------------17031186730298023113938632608--
